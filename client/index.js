@@ -35,6 +35,7 @@ class Home extends Component {
           width: '100vw',
         }}
       >
+        <h1> The Best Pokemon </h1>
         {
           pokemon.map(p => {
             return (
